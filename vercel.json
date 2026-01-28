@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "api/ai-analyze-numerology.js": {
+      "maxDuration": 60
+    },
+    "api/ai-user-advice-numerology.js": {
+      "maxDuration": 60
+    },
+    "api/ai-compatibility-numerology.js": {
+      "maxDuration": 60
+    }
+  }
+}
